@@ -1,8 +1,8 @@
 {
-  "name": "june.loc",
-  "version": "1.0.1",
+  "name": "june",
+  "version": "0.0.1",
   "description": "june",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
