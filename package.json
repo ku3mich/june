@@ -34,6 +34,6 @@
 		"require-reload": "^0.2.2"
 	},
 	"bin" : {
-		"tj" : "./tj"
+		"tj" : "./tj.js"
 	}
 }
